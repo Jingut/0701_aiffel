@@ -40,3 +40,9 @@ commit은 실제로 특정 순간의 버전을 스냅샷으로 확정시켜 남�
 
 git remote add origin https://github.com/jingut/first-repository.git
 
+***
+
+마크다운의 장단점을 두 가지씩 설명해 보세요.
+
+장점 : 간결하다, 별다른 도구 없이 작성할 수 있다.
+단점 : 표준이 없다, 모든 HTML 마크업을 대체하지 못한다.  
